@@ -1,0 +1,21 @@
+h1{
+color: darkred;
+}
+
+h2{
+    color: hotpink;
+    text-align: center;
+}
+p{
+    color: darkslategrey;
+    text-align: justify;
+}
+button{
+    color: indigo;
+    background-color: rosybrown;
+}
+input{
+    color: lawngreen;
+
+}
+
